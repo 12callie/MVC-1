@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "global.css": "^1.1.0",
+    "jquery": "^3.6.0",
+    "reset.css": "^2.0.2"
+  },
+  "name": "MVC-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
